@@ -1,0 +1,6 @@
+{
+  "name": "匆匆一眼 · 艺术字体交互展",
+  "description": "以东方美学与交互声景呈现的「能遇见就是缘，哪怕就匆匆一眼」动态艺术字体互动装置。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
